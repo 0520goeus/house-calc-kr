@@ -193,7 +193,7 @@ def _render_page(title: str, desc: str, canonical_path: str, body: str, faq: lis
 <section class="cta">
   <div style="font-size:18px;font-weight:800">내집마련 매물 10개 동시 비교 자동 엑셀 템플릿 (무매크로)</div>
   <div style="font-size:14px;opacity:.92;margin-top:4px">매매가·대출금리·취득세·복비·총 필요 현금을 한 시트에서 자동 비교하고 실수 없는 계약 결정을 도와줍니다.</div>
-  <a href="https://scopekit-studio.lemonsqueezy.com/checkout/buy/ba4f11c6-8609-49c0-a947-39bead163d74" target="_blank" rel="noopener">엑셀 3종 올인원 번들 즉시 다운로드 ($19) →</a>
+  <a href="https://0520goeus.github.io/excel-store/" target="_blank" rel="noopener">엑셀 3종 올인원 번들 즉시 다운로드 ($19) →</a>
 </section>
 {COUPANG_HTML}
 </main>
